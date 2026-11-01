@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    "@thelioo/opencode-balancer",
+    "opencode-antigravity-auth"
+  ],
+  "agents": {
+    "explore": {
+      "model": "google/antigravity-gemini-3-flash"
+    }
+  }
+}
