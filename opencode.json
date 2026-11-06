@@ -1,15 +1,12 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  
   "agents": {
     "explore": {
-      "model": "google/antigravity-gemini-3.8-flash-high"
+      "model": "opencode-go/muse-spark-1.3-contributor"
     }
   },
-
   "plugins": [
     "@thelioo/opencode-balancer",
-    "opencode-antigravity-auth",
     "@bybrawe/opencode-loop@0.6.10"
   ]
 }

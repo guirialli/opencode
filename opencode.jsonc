@@ -1,8 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
-
   "plugins": [
-    "@thelioo/opencode-balancer",
-    "opencode-google-antigravity-auth"
+    "@thelioo/opencode-balancer"
   ]
 }

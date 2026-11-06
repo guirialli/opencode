@@ -1,7 +1,7 @@
 ---
 description: Read-only context scout (compatibility alias for the carregar-contexto skill). Reads files and web sources, never edits or runs mutating commands.
 mode: subagent
-model: google/antigravity-gemini-3.8-flash-high
+model: opencode-go/muse-spark-1.3-contributor
 permissions:
   - action: edit
     resource: "*"
